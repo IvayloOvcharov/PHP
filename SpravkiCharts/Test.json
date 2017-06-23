@@ -1,0 +1,53 @@
+{
+        "test":[
+                {
+                        "TankData" : "12.03.2017",
+                        "TankStartTime" : "00:00:00", 
+                        "TankEndTime" : "00:11:59",
+                        "TankVolume15C" : "125",
+                        "temp" : "25", 
+                        "TankNum" : "1",
+                        "DocData" : "12/03/2017",
+                        "DocVolume" : "125",
+                        "DocTime" : "23:59:59",
+                        "DocNum" : "25254", 
+                        "Provider" : "Ivo",
+                        "VMPNum" : "5"
+
+                },
+                 {
+                        "TankData" : "12.03.2017",
+                        "TankStartTime" : "00:00:00", 
+                        "TankEndTime" : "00:11:59",
+                        "TankVolume15C" : "125",
+                        "temp" : "25", 
+                        "TankNum" : "12",
+                        "DocData" : "12/03/2017",
+                        "DocVolume" : "125",
+                        "DocTime" : "23:59:59",
+                        "DocNum" : "25254", 
+                        "Provider" : "Ivo",
+                        "VMPNum" : "5"
+
+                },
+                {
+
+                        "TankData" : "12.03.2017",
+                        "TankStartTime" : "2", 
+                        "TankEndTime" : "00:59",
+                        "TankVolume15C" : "125",
+                        "temp" : "25", 
+                        "TankNum" : "13",
+                        "DocData" : "12/03/2017",
+                        "DocVolume" : "125",
+                        "DocTime" : "23:59:59",
+                        "DocNum" : "25123254", 
+                        "Provider" : "Ivsadao",
+                        "VMPNum" : "5"
+
+                }
+        ]
+
+}
+
+

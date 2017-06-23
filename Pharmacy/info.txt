@@ -1,0 +1,5 @@
+Finished project 
+pull data from data base with PDO
+It's used for references
+
+doesn't work because I changed the path (security reasons)

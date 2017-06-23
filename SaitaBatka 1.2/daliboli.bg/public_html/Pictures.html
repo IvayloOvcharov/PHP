@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<style>
+body{
+    background-image: url(images/bg2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center; 
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.container{
+    padding-top: 30px;
+}
+.container-fluid{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    background-color:dodgerblue; 
+    height: 40px}
+ .button {
+    margin: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 15px;}
+ .btn{
+     
+ }
+</style>
+</head>
+<header>
+    <div class="container-fluid">
+  <div class="row">
+      <div class="col-sm-2">
+         <img src="images/logo.jpg " alt="logo" width="35" style="margin-top: 3px;float: right; border-radius: 3px;"></div>
+      <div class="col-sm-6">
+          </div>
+      <div class="col-sm-2">
+         <img src="images/pic.jpg" alt="pic" width="50" style="float: left">
+          <label style="margin-top: 8px">Username</label></div>
+      <div class="col-sm-2">
+         <button class="button">Log Out</button></div>
+  </div>
+</div>
+
+</header>
+<body>
+    <div class="container">
+        <img src="images/bg2.jpg" alt="picture" width="600" style="border-radius: 5px;border: 4px solid white">
+    </div>
+    <div>
+        <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">LIKE</button>
+  <div id="demo" class="collapse">
+      <input id="text" style="color:black;">
+
+<button type="button" onclick="myFunction()">Submit</button>
+
+<p id="demo"></p>
+    
+  </div>
+ 
+</body>
+</html>

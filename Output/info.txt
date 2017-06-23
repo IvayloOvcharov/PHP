@@ -1,0 +1,8 @@
+Not finished yet
+Check request folder 
+
+Visualize the data from database in a table
+you can search in dates and key words
+you can also correct the info
+
+doesn't work because I changed the path (security reasons)
